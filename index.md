@@ -5,6 +5,7 @@
 | Name | Sheet | Note |
 |---|---|---|
 | LaTeX | [PDF](./assets/pdf/latexsheet-a4.pdf) | [Source](https://wch.github.io/latexsheet/) |
+| LaTeX Math Symbols | [PDF](./assets/pdf/latex-symbols.pdf) | [Source](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf) |
 | Git | [Link](./assets/md/git.md) | Personal memo |
 | Shell | [Link](./assets/md/shell.md) | Personal memo |
 | Numpy/Pandas/Sklearn | [PDF](./assets/pdf/np_pd_sklearn-cheatsheets.pdf) | Source: [DataCamp](https://www.datacamp.com/cheat-sheet), [pydata.org](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) |
