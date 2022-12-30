@@ -1,10 +1,5 @@
 # Git
 
-### Global Settings
-- Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
-- Interactive Beginners Tutorial: http://try.github.io/
-- Git Training Kit by GitHub: https://github.github.com/training-kit/
-
 ### Reminder
 Press `minus + shift + s` and `return` to chop/fold long lines!
 
@@ -395,3 +390,8 @@ Website: https://git-lfs.github.com/
 Install: `brew install git-lfs`
 
 Track `*.psd` files: `git lfs track "*.psd"` (init, add, commit and push as written above)
+
+### Global Git Settings
+- [Git tips from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
+- [Interactive Beginners Tutorial by GitHub](http://try.github.io/)
+- [Git Training Kit by GitHub](https://github.github.com/training-kit/)

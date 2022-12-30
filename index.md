@@ -8,7 +8,7 @@
 | LaTeX Math Symbols | [PDF](./assets/pdf/latex-symbols.pdf) | [Source](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf) |
 | Git | [Link](./assets/md/git.md) | Personal memo |
 | Shell | [Link](./assets/md/shell.md) | Personal memo |
-| Numpy/Pandas/Sklearn | [PDF](./assets/pdf/np_pd_sklearn-cheatsheets.pdf) | Source: [DataCamp](https://www.datacamp.com/cheat-sheet), [pydata.org](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) |
+| Numpy/Pandas/Sklearn | [PDF](./assets/pdf/pd-np-sklearn-cheatsheets.pdf) | Source: [DataCamp](https://www.datacamp.com/cheat-sheet), [pydata.org](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) |
 | Matplotlib | [PDF](./assets/pdf/matplotlib-cheatsheets.pdf) | [Source](https://github.com/matplotlib/cheatsheets/) |
 | Pip | [Link](./assets/md/pip.md) | Personal memo |
 | Conda | [PDF](./assets/pdf/conda-cheatsheet.pdf) | [Source](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html) |
