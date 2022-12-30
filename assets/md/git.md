@@ -1,19 +1,19 @@
 # Git
 
-## Global Settings
+### Global Settings
 - Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
 - Interactive Beginners Tutorial: http://try.github.io/
 - Git Training Kit by GitHub: https://github.github.com/training-kit/
 
-## Reminder
+### Reminder
 Press `minus + shift + s` and `return` to chop/fold long lines!
 
 Show folder content: `ls -la`
 
-## Notes
+### Notes
 Do not put (external) dependencies in version control!
 
-## Setup
+### Setup
 See where Git is located:
 `which git`
 
@@ -26,7 +26,7 @@ Create an alias (shortcut) for `git status`:
 Help:
 `git help`
 
-## General
+### General
 Initialize Git:
 `git init`
 
@@ -63,7 +63,7 @@ Undo modifications (restore files from latest commited version):
 Restore file from a custom commit (in current branch):
 `git checkout 6eb715d -- index.html`
 
-## Reset
+### Reset
 Go back to commit:
 `git revert 073791e7dd71b90daa853b2c5acc2c925f02dbc6`
 
@@ -81,7 +81,7 @@ Hard reset (move HEAD and change staging dir and working dir to match repo):
 Hard reset of a single file (`@` is short for `HEAD`):
 `git checkout @ -- index.html`
 
-## Update & Delete
+### Update & Delete
 Test-Delete untracked files:
 `git clean -n`
 
@@ -94,7 +94,7 @@ Unstage (undo adds):
 Update most recent commit (also update the commit message):
 `git commit --amend -m "New Message"`
 
-## Branch
+### Branch
 Show branches:
 `git branch`
 
@@ -121,7 +121,7 @@ Delete merged branch (only possible if not HEAD):
 Delete not merged branch:
 `git branch -D branch_to_delete`
 
-## Merge
+### Merge
 True merge (fast forward):
 `git merge branchname`
 
@@ -158,7 +158,7 @@ Squash multiple commits into one:
 Squash-merge a feature branch (as one commit):
 `git merge --squash branchname` (commit afterwards)
 
-## Stash
+### Stash
 Put in stash:
 `git stash save "Message"`
 
@@ -189,7 +189,7 @@ Delete custom stash item:
 Delete complete stash:
 `git stash clear`
 
-## Gitignore & Gitkeep
+### Gitignore & Gitkeep
 About: https://help.github.com/articles/ignoring-files
 
 Useful templates: https://github.com/github/gitignore
@@ -200,7 +200,7 @@ Add or edit gitignore:
 Track empty dir: 
 `touch dir/.gitkeep`
 
-## Log
+### Log
 Show commits:
 `git log`
 
@@ -244,7 +244,7 @@ Show history of commits as graph:
 Show history of commits as graph-summary:
 `git log --oneline --graph --all --decorate`
 
-## Compare
+### Compare
 Compare modified files:
 `git diff`
 
@@ -283,7 +283,7 @@ Useful comparings:
 Blame:
 `git blame -L10,+1 index.html`
 
-## Releases & Version Tags
+### Releases & Version Tags
 Show all released versions:
 `git tag`
 
@@ -305,7 +305,7 @@ Push one tag to remote:
 Push all tags to remote:
 `git push [origin] --tags`
 
-## Collaborate
+### Collaborate
 Show remote:
 `git remote`
 
@@ -377,19 +377,19 @@ Delete remote branch (push nothing):
 `git push origin :branchname` or:
 `git push origin --delete branchname`
 
-## Archive
+### Archive
 Create a zip-archive: `git archive --format zip --output filename.zip master`
 
 Export/write custom log to a file: `git log --author=sven --all > log.txt`
 
-## Troubleshooting
+### Troubleshooting
 Ignore files that have already been committed to a Git repository: http://stackoverflow.com/a/1139797/1815847
 
-## Security
+### Security
 Hide Git on the web via `.htaccess`: `RedirectMatch 404 /\.git` 
 (more info here: http://stackoverflow.com/a/17916515/1815847)
 
-## Large File Storage
+### Large File Storage
 Website: https://git-lfs.github.com/
 
 Install: `brew install git-lfs`

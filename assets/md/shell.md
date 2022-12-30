@@ -1,6 +1,6 @@
 # Shell Cheatsheet
 
-## Shortcut
+### Shortcut
 - `ctrl+c` - halts current command
 - `ctrl+z` - stops current command
 - `fg` - resume stopped command in foreground
@@ -17,11 +17,11 @@
 - `echo {1..3}.jpg` -expands to `echo 1.jpg 2.jpg 3.jpg`
 
 
-## Execution
+### Execution
 - `nohup jupyter lab > /dev/null 2>&1 &` - redirect every output to nohup.txt
 
 
-## Compression
+### Compression
 - `tar zcvf file.tar.gz dir` - tar everything in dir and compress with gzip
 - `tar zxvf file.tar.gz dir` - extract everything in file.tar.gz to dir with gzip
 - `tar Jcvf file.tar.xz dir` - tar everything in dir and compress with xz
@@ -44,14 +44,14 @@
     - `v` - verbose
 
 
-## Searching
+### Searching
 - `grep pattern files` - search for pattern in files
 - `grep -r pattern dir` - search recursively for pattern in dir
 - `command | grep pattern` - search for for pattern in in the output of command
 - `find . -name "*.js"` - find all file whose extension is js in current directory
 
 
-## loop
+### loop
 - create 10 files
     ```
     for ((i=0; i<10; i++)); do
@@ -60,7 +60,7 @@
     ```
 
 
-## xargs
+### xargs
 - `find . -name "*.pyc"|xargs rm` - remove (rm) all file matching the pattern (filename *.pyc)
 - `find . -name "pattern" | xargs rm -rf` - remove all file/dir matching the pattern
 - `find . -name "*.c" -print0 | xargs -0 rm -rf` - correctly deal with filenames containing space
@@ -75,7 +75,7 @@
     - `xargs --show-limits` - display system limits on xargs
 
 
-## Process Management
+### Process Management
 - `ps` - display currently active processes
 - `ps aux` - ps with a lot of detail
 - `ps uxf` - ps with tree view (only your process)
@@ -86,7 +86,7 @@
 - `fg n` - brings job n to foreground
 
 
-## File
+### File
 - `ls` - directory listing
 - `ls -al` - formatted listing with hidden files
 - `cd dir` - change directory to dir
@@ -110,13 +110,13 @@
 - `chmod 777 files` - rwx for everyone
 - `chmod 755 files` - rw for owner, rx for group/world
 
-## ssh
+### ssh
 - `ssh user@host` - connet to host as user
 - `ssh -p port user@host` - connect using port p
 - `ssh -D port user@host` - connect and use bind port
 
 
-## Network
+### Network
 - `ping host` - ping host 'host'
 - `whois domain` - get whois for domain
 - `dig domain` - get DNS for domain
@@ -126,7 +126,7 @@
 - `wget -r url` - recursively download files from url
 - `wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=FILEID" -O FILENAME && rm -rf /tmp/cookies.txt` download gdrive files
 
-## System Info
+### System Info
 - `date` - show current date/time
 - `cal` - show this month's calendar
 - `uptime` - show uptime
