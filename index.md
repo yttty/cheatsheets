@@ -1,6 +1,6 @@
 # Cheatsheets and Memos
 
-### Programming sheets
+### Programming
 
 | Name | Sheet | Note |
 |---|---|---|
@@ -19,7 +19,7 @@
 | Docker | [Link](https://github.com/wsargent/docker-cheat-sheet) | A comprehensive manual |
 | Dockerfile | [Link](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) |  |
 
-### Math sheets
+### Math
 
 | Name | Sheet | Note |
 |---|---|---|
@@ -32,12 +32,12 @@
 
 
 ### Other (infrequent but) useful materials
-- Programming
+- **Programming**
     - [Vim Cheatsheet](https://vim.rtorr.com/)
     - [Learn X in Y minutes - Scenic Programming Language Tours](https://learnxinyminutes.com/)
     - [Hyperpolyglot - Comparison of Programming Languages and Programming Tools](https://hyperpolyglot.org/)
     - [Linux CLI Summary](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html)
     - [Bash Programming: HOWTO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
     - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
-- Math
+- **Math**
     - [Univariate Distribution Relations](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
