@@ -8,10 +8,11 @@
 | Shell | [Link](./assets/md/shell.md) | Personal memo |
 | Tmux | [Link](https://tmuxcheatsheet.com/) | |
 | Scientific Python | [HTML](./assets/md/scientific_python_cheat_sheet.md) | [Source](https://ipgp.github.io/scientific_python_cheat_sheet/) |
-| (Yet Another) Scientific Python | [PDF](./assets/pdf/Scitific_Python_Cheat_Sheets.pdf) | Source: [DataCamp](https://www.datacamp.com/cheat-sheet), [pydata.org](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) |
+| (Yet Another) Scientific Python | [PDF](./assets/pdf/Scitific_Python_Cheat_Sheets.pdf) | Source: [(1)](https://www.datacamp.com/cheat-sheet), [(2)](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) |
 | Matplotlib | [PDF](./assets/pdf/matplotlib-cheatsheets.pdf) | [Source](https://github.com/matplotlib/cheatsheets/) |
 | Pip | [Link](./assets/md/pip.md) | Personal memo |
 | Conda | [PDF](./assets/pdf/conda-cheatsheet.pdf) | [Source](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html) |
+| C++ | [PDF](./assets/pdf/cpp_cheatsheet.pdf) | Source: [(1)](https://person.dibris.unige.it/moggi-eugenio/PG1-13/Cpp_reference.pdf), [(2)](https://upload.cppreference.com/mwiki/images/e/e7/container-library-overview-2012-12-27.pdf),  [(3)](https://abdelkaderamar.github.io/assets/pdf/cheatsheets/c++17_lang_cheatsheet.pdf) |
 | LaTeX | [PDF](./assets/pdf/latexsheet-a4.pdf) | [Source](https://wch.github.io/latexsheet/) |
 | LaTeX Math Symbols | [PDF](./assets/pdf/latex-symbols.pdf) | [Source](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf) |
 | MySQL | [Link](https://devhints.io/mysql) |  |
