@@ -18,6 +18,7 @@
 | Docker | [Link](./assets/md/docker.md) | Personal memo |
 | Docker | [Link](https://github.com/wsargent/docker-cheat-sheet) | A comprehensive manual |
 | Dockerfile | [Link](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) |  |
+| kubectl | [Link](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) | |
 
 ### Math
 
