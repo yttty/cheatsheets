@@ -92,6 +92,7 @@
 - `cd dir` - change directory to dir
 - `cd` - change to home
 - `pwd` - show current directory
+- `readlink -f params.json` - show path of the file
 - `mkdir dir` - create direcotry dir
 - `rm file` - delete file
 - `rm -rf dir` - remove directory dir
