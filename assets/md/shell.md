@@ -98,6 +98,7 @@
 - `rm -rf dir` - remove directory dir
 - `ln -s file link` - create symbolic link 'link' to file
 - `touch file` - create or update file
+- `sed -i 's/word1/word2/g' input.file` - replace word1 with word2 in input file
 - `cat > file` - place standard input into file
 - `less file` - output the contents of the file
 - `head file` - output first 10 lines of file
@@ -110,6 +111,7 @@
     - order: owner/group/world
 - `chmod 777 files` - rwx for everyone
 - `chmod 755 files` - rw for owner, rx for group/world
+
 
 ### ssh
 - `ssh user@host` - connet to host as user
