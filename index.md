@@ -22,7 +22,7 @@
 | Docker | [Link](https://github.com/wsargent/docker-cheat-sheet) | A comprehensive manual |
 | Dockerfile | [Link](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) |  |
 | kubectl | [Link](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) | |
-| PowerShell | [Link](./assets/pdf/powershell-basic-cheat-sheet2.pdf) | [Source](https://ramblingcookiemonster.github.io/images/Cheat-Sheets/powershell-basic-cheat-sheet2.pdf) |
+| PowerShell | [Link](https://gist.github.com/yttty/205672913c0db6bee64f55ddf52261ec) | [Source](https://gist.github.com/pcgeek86/336e08d1a09e3dd1a8f0a30a9fe61c8a) |
 
 ### Math
 
