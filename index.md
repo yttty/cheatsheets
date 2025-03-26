@@ -33,6 +33,7 @@
 | Probability-2 | [PDF](./assets/pdf/probability_cheatsheet.pdf) | [Source](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) |
 | Statistics-2 | [PDF](./assets/pdf/stats-cheatsheets.pdf) | Source: [MIT](https://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf), [Blast](https://www.blastanalytics.com/wp-content/uploads/BlastAM-Statistics-Cheatsheet.pdf) |
 | Calculus | [PDF](./assets/pdf/Calculus_Cheat_Sheet_All.pdf) | [Source](https://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf) |
+| Convex | [PDF](./assets/pdf/convex.pdf) | [Source](http://dsp.ee.cuhk.edu.hk/eleg5481/cheat%20sheet/summary.pdf) |
 | Matrix Analysis | [Link](http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/intro.html) | |
 
 
